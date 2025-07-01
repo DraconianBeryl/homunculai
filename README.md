@@ -9,9 +9,11 @@ All files in this project start with content that is intended to be copy/pasted 
 Each AI conversation should end with the following prompt. It will be up to a human to evaluate that summary and act upon it.
 
 > Before we close this conversation, please briefly summarize any ways this discussion should inform updates to:
+> 
 > - The context description for the relevant file(s)
 > - The context description for the containing folder(s)
 > - The overall project context description
+> 
 > If no updates are necessary, please state that clearly. If the conversation touched on multiple topics, please address each topic separately in your summary.
 
 # Context Statement
