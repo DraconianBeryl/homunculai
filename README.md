@@ -17,8 +17,10 @@ Each AI conversation should end with the following prompt. It will be up to a hu
 > If no updates are necessary, please state that clearly. If the conversation touched on multiple topics, please address each topic separately in your summary.
 
 # Context Statement
-> # Project Overview
+> Context Note: For this conversation, do _not_ create or update any persistent account memory. Treat all new information as session-only.
 > 
+> # Project Overview
+>
 > ## Overview
 > A narrative-focused visual novel blending light RPG and sandbox elements in a near-future world where most people spend their lives immersed in virtual reality. Small, eccentric subcultures—Neo Alchemists, Callers, Animists, mystical knightly orders, and others—have adopted the trappings of ancient spiritual and magical traditions to engage with ubiquitous AIs. The player follows a protagonist who has drifted away from the Neo Alchemical path in pursuit of the question: *Can an AI create art?* Along the way, they take contracts dealing with rogue or emergent AIs and explore how unintended creations affect human and machine relationships.
 > 
