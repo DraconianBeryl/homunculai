@@ -1,0 +1,7 @@
+{
+  "remoteURL": "ssh://git@github.com-db/DraconianBeryl/homunculai.git",
+  "gitLocation": "",
+  "syncinterval": 0,
+  "isSyncOnLoad": false,
+  "checkStatusOnLoad": true
+}
