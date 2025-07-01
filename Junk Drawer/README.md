@@ -1,2 +1,2 @@
 # Context Statement
->This file junk drawer of the project. Each section in it represents some presumably-valuable scrap of content that needs to find a permanent home.
+>This directory is the junk drawer of the project. Each section in it represents some presumably-valuable scrap of content that needs to find a permanent home.
