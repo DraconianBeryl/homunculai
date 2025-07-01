@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Junk Drawer/README.md",
+                "file": "Junk Drawer/00_Seed_Chat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "00_Seed_Chat"
             }
           }
         ]
@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Welcome"
             }
           }
         ],
@@ -200,16 +200,16 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "28cb2be567fe847a",
+  "active": "b1d5d67cfd7f2801",
   "lastOpenFiles": [
+    "README.md",
+    "Junk Drawer/00_Seed_Chat.md",
+    "Junk Drawer/README.md",
     "00_Project/02_Inspirations.md",
     "00_Project/Changelog.md",
     "00_Project/01_Lexicon.md",
     "00_Project/00_Goals.md",
-    "README.md",
-    "Junk Drawer/00_Seed_Chat.md",
     "Welcome.md",
-    "Junk Drawer/README.md",
     "Junk Drawer",
     "00_Project/README.md",
     "04_Art",
