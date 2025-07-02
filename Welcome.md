@@ -20,11 +20,6 @@ chat-done:: 1751334442 https://chatgpt.com/c/68632eb9-e064-8002-bb96-deb90cb80b0
 
 homuncul-ai-design-bible/
 ├── 0_Project/
-│   ├── README.md
-│   ├── Goals.md
-│   ├── Lexicon.md
-│   ├── Inspirations.md
-│   └── Changelog.md
 ├── 1_Lore/
 │   ├── Overview.md
 │   ├── World_History.md
