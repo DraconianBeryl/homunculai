@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Junk Drawer/00_Seed_Chat.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00_Seed_Chat"
+              "title": "Welcome"
             }
           }
         ]
@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Junk Drawer/01_Soundtrack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "01_Soundtrack"
             }
           }
         ],
@@ -200,18 +200,19 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "28cb2be567fe847a",
+  "active": "b1d5d67cfd7f2801",
   "lastOpenFiles": [
-    "README.md",
     "Junk Drawer/00_Seed_Chat.md",
-    "Welcome.md",
-    "Junk Drawer/README.md",
-    "00_Project/02_Inspirations.md",
+    "Junk Drawer/01_Soundtrack.md",
     "00_Project/Changelog.md",
-    "00_Project/01_Lexicon.md",
     "00_Project/00_Goals.md",
-    "Junk Drawer",
+    "00_Project/01_Lexicon.md",
+    "00_Project/02_Inspirations.md",
     "00_Project/README.md",
+    "Junk Drawer/README.md",
+    "README.md",
+    "Welcome.md",
+    "Junk Drawer",
     "04_Art",
     "03_Narrative",
     "02_Gameplay",
