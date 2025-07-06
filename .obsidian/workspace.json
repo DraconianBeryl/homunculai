@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "00_Project/Changelog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Changelog"
             }
           }
         ]
@@ -191,8 +191,8 @@
   },
   "active": "c7a9b687a1d91059",
   "lastOpenFiles": [
-    "create a link.md",
     "Welcome.md",
+    "create a link.md",
     "README.md",
     "01_Lore/03_Technologies.md",
     "01_Lore/01_World_History.md",
