@@ -1,6 +1,8 @@
 # Context Statement
 ```markdown
-# Context Statement
+# Context Statement - Entry
+
+Entries: Lore Overview
 
 This document introduces the narrative and thematic foundations of the project, a narrative-driven visual novel with light RPG and sandbox elements set in a near-future world saturated with ubiquitous artificial intelligence and pervasive virtual reality.
 

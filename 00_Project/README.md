@@ -1,12 +1,14 @@
 # Context Statement
 ```markdown
-# 📘 Meta: Vision, Foundations, and Context
+# Context Statement - Topical
 
-This section of the game design bible focuses on the project at a meta level—capturing *why* it exists, *what* it aims to explore, and *how* it situates itself in a broader cultural and creative landscape.
+Topics: Meta, Vision, Foundations, and Context
 
-Documents within this folder serve as guiding references to keep the team aligned around shared purpose, language, and inspiration. They are not specifications of mechanics or assets, but rather touchstones for creative intent.
+This folder of the game design bible focuses on the project at a meta level—capturing *why* it exists, *what* it aims to explore, and *how* it situates itself in a broader cultural and creative landscape.
 
-**Subdocuments in this section include:**
+Files within this folder serve as guiding references to keep the team aligned around shared purpose, language, and inspiration. They are not specifications of mechanics or assets, but rather touchstones for creative intent.
+
+**Entries in this folder include:**
 
 - **Goals**  
   Articulates the core objectives of the project, both experiential and philosophical.

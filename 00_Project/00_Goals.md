@@ -1,6 +1,8 @@
 # Context Statement
 ```markdown
-# Project Goals
+# Context Statement - Entry
+
+Entries: Project Goals
 
 This document articulates the **core objectives** of the project, both experiential and philosophical.
 

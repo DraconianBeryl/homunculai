@@ -1,8 +1,8 @@
 # Context Statement
 ```markdown
-# Technologies
+# Context Statement - Entry
 
-## Context Statement
+Entries: Technologies
 
 This document records the technological foundations, tools, and workflows underpinning the development of the project tentatively titled *Homuncul-AI*. 
 
@@ -14,5 +14,5 @@ The aim is to maintain transparency about the systems and methods employed, to s
 - Who bears responsibility for emergent works?
 - Where does authorship end, and where does co-creation begin?
 
-Entries in this folder should describe the purpose, scope, and rationale for each technology, noting any significant philosophical, practical, or aesthetic considerations that shaped its use.
+The contents of this file should describe the purpose, scope, and rationale for each technology, noting any significant philosophical, practical, or aesthetic considerations that shaped its use.
 ```

@@ -1,6 +1,8 @@
 # Context Statement
 ```markdown
-# World History – Context Statement
+# Context Statement - Entry
+
+Entries: World History
 
 In the near future, humanity has woven virtual reality into every facet of life. The networks that cradle daily existence are alive with ubiquitous AIs—some corporate, some municipal, some private—each maintaining the delicate balance of infrastructure, commerce, and personal convenience.
 

@@ -1,8 +1,10 @@
 # Context Statement
 ```markdown
-# 📖 Context Statement
+# Context Statement - Topical
 
-This document serves as a foundational reference for the narrative, thematic, and aesthetic vision of the project tentatively titled **Homuncul-AI**.
+Topics: Lore, Theme
+
+This folder of the game design bible serves as a foundational reference for the narrative, thematic, and aesthetic vision of the project tentatively titled **Homuncul-AI**.
 
 ## Overview
 

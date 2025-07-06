@@ -1,6 +1,8 @@
 # Context Statement
 ```markdown
-# Lexicon
+# Context Statement - Entry
+
+Entries: Lexicon
 
 This document defines important terms, traditions, and recurring concepts used throughout the Homuncul-AI project. 
 

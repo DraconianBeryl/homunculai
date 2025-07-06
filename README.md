@@ -15,12 +15,20 @@ Before we close this conversation, please briefly summarize any ways this discus
 - The context description for the containing folder(s)
 - The overall project context description
 
-If no updates are necessary, please state that clearly. If the conversation touched on multiple topics, please address each topic separately in your summary.
+If no updates are necessary, please state that clearly. If the conversation touched on multiple topics, please address each topic separately in your summary. Please point out any the topics do not fit any of the context statements provided at the beginning of this chat.
 ```
 
 # Context Statement
 ```markdown
 Context Note: For this conversation, do _not_ create or update any persistent account memory. Treat all new information as session-only.
+
+# Organizational Structure
+
+Within this project, a **Topic** refers to a folder that groups related files by subject, and an **Entry** refers to an individual file within a Topic.
+
+Context statements may be written at the Topic level (covering one or more Topics) or at the Entry level (covering one or more specific Entries). In such cases, the statement applies collectively to all listed items unless otherwise noted.
+
+As the documentation evolves, Topics may be split, merged, or reorganized, but Entries always inherit the context of their current parent Topic unless explicitly overridden.
 
 # Project Overview
 

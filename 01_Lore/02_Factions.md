@@ -1,6 +1,8 @@
 # Context Statement
 ```markdown
-# Context Statement: Factions
+# Context Statement - Entry
+
+Entries: Factions
 
 In the world of *Homuncul-AI*, the majority of society has adopted a pervasive, corporate-managed virtual reality that prioritizes convenience, consumption, and standardized experiences. Yet scattered across this synthetic landscape are communities of iconoclasts and eccentrics—subcultures who reject homogenized digital life in favor of reconstructed spiritual and philosophical traditions.
 

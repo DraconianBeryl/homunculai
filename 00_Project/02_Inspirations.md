@@ -1,8 +1,10 @@
 # Context Statement
 ```markdown
-# Inspirations
+# Context Statement - Entry
 
-_This file chronicles the artistic, literary, and technological influences shaping the work, from historical authors to contemporary aesthetic trends. It serves both as a creative touchstone and a record of the cultural lineage informing the project's vision._
+Entries: Inspirations
+
+This file chronicles the artistic, literary, and technological influences shaping the work, from historical authors to contemporary aesthetic trends. It serves both as a creative touchstone and a record of the cultural lineage informing the project's vision.
 
 ## Context
 
