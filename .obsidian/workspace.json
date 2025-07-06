@@ -31,16 +31,6 @@
             "id": "c7a9b687a1d91059",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "28cb2be567fe847a",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Welcome.md",
@@ -51,8 +41,7 @@
               "title": "Welcome"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,8 +189,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "28cb2be567fe847a",
+  "active": "c7a9b687a1d91059",
   "lastOpenFiles": [
+    "create a link.md",
+    "Welcome.md",
+    "README.md",
     "01_Lore/03_Technologies.md",
     "01_Lore/01_World_History.md",
     "00_Project/01_Lexicon.md",
@@ -213,8 +205,6 @@
     "00_Project/Changelog.md",
     "Junk Drawer/README.md",
     "00_Project/README.md",
-    "README.md",
-    "Welcome.md",
     "Junk Drawer/01_Soundtrack.md",
     "Junk Drawer/00_Seed_Chat.md",
     "Junk Drawer",

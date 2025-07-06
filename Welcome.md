@@ -1,8 +1,3 @@
-This is your new *vault*.
-
-Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
-
-When you're ready, delete this note and make the vault your own.
 
 ```smart-chatgpt
 chat-active:: 1751339656 https://chatgpt.com/c/6744d736-978c-8002-b2fa-e2df4ab03334
@@ -20,6 +15,7 @@ chat-done:: 1751334442 https://chatgpt.com/c/68632eb9-e064-8002-bb96-deb90cb80b0
 
 homuncul-ai-design-bible/
 ├── 0_Project/
+
 ├── 1_Lore/
 │   ├── Overview.md
 │   ├── World_History.md
